@@ -1,0 +1,1 @@
+const chosenMaxLife = 100;
